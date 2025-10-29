@@ -321,6 +321,21 @@ ZOOM.XML
 
 
 ## OUTPUT
-
+### activity_main.xml
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fae291c-6870-4742-ba18-53b5076fba16" />
+### MainActivity.java
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05fda8e7-83c1-4ced-845f-1d318e8f8da3" />
+### Blink
+<img width="396" height="805" alt="image" src="https://github.com/user-attachments/assets/7ca5befc-2f2c-4c2e-becb-4c056ba028a1" />
+### Slide
+<img width="387" height="805" alt="image" src="https://github.com/user-attachments/assets/560b7093-07fb-4478-82f3-92bf5b99c341" />
+### Fade
+<img width="380" height="809" alt="image" src="https://github.com/user-attachments/assets/50346db8-a1ce-46d6-92b5-9ee9977d9d4b" />
+### Zoom
+<img width="396" height="808" alt="image" src="https://github.com/user-attachments/assets/c13ee688-716f-4ee2-9968-5aa3fe2f63e1" />
+### Move
+<img width="379" height="799" alt="image" src="https://github.com/user-attachments/assets/5843f49d-44da-416e-ab4f-0c90211a1f22" />
+### Rotate
+<img width="382" height="796" alt="image" src="https://github.com/user-attachments/assets/f754cae1-b5a0-46f5-907c-4f1cd9110c11" />
 ## RESULT
 Thus a Simple Android Application to add animations: Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and executed successfully.

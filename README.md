@@ -36,6 +36,7 @@ Registeration Number : 212224040341
 */
 ```
 ACTIVITY_MAIN.XML:
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -140,7 +141,9 @@ ACTIVITY_MAIN.XML:
         app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 MAIN_ACTIVITY.JAVA:
+
 ```
 package com.example.androidanimation;
 

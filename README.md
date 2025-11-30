@@ -29,15 +29,13 @@ Step 7: Save and run the application
 
 ## PROGRAM:
 ```
-/*
 Program to display animation operation”.
 Developed by : SURYANARAYANAN T
 Registeration Number : 212224040341
-*/
 ```
 ACTIVITY_MAIN.XML:
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -144,7 +142,7 @@ ACTIVITY_MAIN.XML:
 
 MAIN_ACTIVITY.JAVA:
 
-```
+```java
 package com.example.androidanimation;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -238,7 +236,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 BLINK.XML
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <alpha android:fromAlpha="0.0" android:toAlpha="1.0"
@@ -248,7 +246,7 @@ BLINK.XML
 </set>
 ```
 ROTATE.XML
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <rotate
@@ -267,7 +265,7 @@ ROTATE.XML
 </set>
 ```
 FADE.XML
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- duration is the time for which animation will work-->
@@ -283,7 +281,7 @@ FADE.XML
 </set>
 ```
 MOVE.XML
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <translate
@@ -304,7 +302,7 @@ SLIDE.XML
 </set>
 ```
 ZOOM.XML
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <scale xmlns:android="http://schemas.android.com/apk/res/android"
